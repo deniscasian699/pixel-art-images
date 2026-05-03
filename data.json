@@ -1,0 +1,20 @@
+[
+  {
+    "id": "heart",
+    "name": "Lovely Heart",
+    "file": "img/heart.png",
+    "premium": false
+  },
+  {
+    "id": "star",
+    "name": "Shiny Star",
+    "file": "img/star.png",
+    "premium": true
+  },
+  {
+    "id": "flower",
+    "name": "Cute Flower",
+    "file": "img/flower.png",
+    "premium": false
+  }
+]
